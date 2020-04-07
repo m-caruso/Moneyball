@@ -1,4 +1,2 @@
-# Import Data Branch
-upload discrete data sources from different locations:
-Lahman
-Baseball Reference and its subsources
+# Integrate Data Branch
+once data is cleaned from discrete sources, pull it all together into one data frame
