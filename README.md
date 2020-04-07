@@ -1,4 +1,3 @@
 # Import Data Branch
-upload discrete data sources from different locations:
-Lahman
-Baseball Reference and its subsources
+upload discrete data sources from BaseballReference, Forbes
+player and team information
