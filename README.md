@@ -11,3 +11,6 @@ Wins Vs. Payroll and Team Value: This zip folder holds MLB team logo images. The
 
 Team Value Regression Analysis: This zip folder holds the R script to perform regression analysis to determine factors that most influence team value. 
 
+Team Value Normalization: This zip folder normalizes all team values in the dataset used to perform the analysis in the Team Value Regression Analysis folder
+
+Team Value Ov
