@@ -9,3 +9,5 @@ Player Regression Analysis: This zip folder holds the cleaning to produce the fi
 
 Wins Vs. Payroll and Team Value: This zip folder holds MLB team logo images. The Wins Vs. Payroll and Value.R file uses a dataset that is imported via a Github URL in our repisitory and creates plots using this data and the team logos. 
 
+Team Value Regression Analysis: This zip folder holds the R script to perform regression analysis to determine factors that most influence team value. 
+
