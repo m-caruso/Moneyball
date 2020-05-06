@@ -1,6 +1,9 @@
 # Final Code
 This branch holds all the most up to date code for our final project, Moneyball.
 
-Shiny Quadrant Charts: This zip file holds the code to produce the Shiny Application for the quadrant charts. There is also a link to this Shiny Application in the Google Drive Final Deliverables folder as well as the report.
+Shiny Quadrant Charts: This zip folder holds the code to produce the Shiny Application for the quadrant charts. There is also a link to this Shiny Application in the Google Drive Final Deliverables folder as well as the report.
 
-Batting Quadrant
+Batting Quadrants and Pitching Quadrants: These zip folders hold the code to produce the quadrant charts that are displayed in Quadrant Chart R Shiny Application
+
+Player Regression Analysis: This zip folder holds the cleaning to produce the final player salary regression plots. Pitcher Value Data Integration and Batter Value Data Integration folders hold scripts for cleaning/integrating pitcher and batter data. CPI Data.R normalizes these CSVs into constant dollars. Regression Plotting uses these datasets to produce player salary models and plots.
+
