@@ -7,3 +7,5 @@ Batting Quadrants and Pitching Quadrants: These zip folders hold the code to pro
 
 Player Regression Analysis: This zip folder holds the cleaning to produce the final player salary regression plots. Pitcher Value Data Integration and Batter Value Data Integration folders hold scripts for cleaning/integrating pitcher and batter data. CPI Data.R normalizes these CSVs into constant dollars. Regression Plotting uses these datasets to produce player salary models and plots.
 
+Wins Vs. Payroll and Team Value: This zip folder holds MLB team logo images. The Wins Vs. Payroll and Value.R file uses a dataset that is imported via a Github URL in our repisitory and creates plots using this data and the team logos. 
+
